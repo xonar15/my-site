@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic');
+
+.container {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	clear: both;
+	font-size: 150%;
+}
+
+.page-header {
+	float: right;
+}
